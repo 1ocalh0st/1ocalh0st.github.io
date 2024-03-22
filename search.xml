@@ -5,10 +5,10 @@
     
     <entry>
       <title>熬夜</title>
-      <link href="/2024/03/23/nao-ji-jie-kou-lian-jie-si-wei-yu-ji-qi-de-qiao-liang/"/>
-      <url>/2024/03/23/nao-ji-jie-kou-lian-jie-si-wei-yu-ji-qi-de-qiao-liang/</url>
+      <link href="/2024/03/23/ao-ye/"/>
+      <url>/2024/03/23/ao-ye/</url>
       
-        <content type="html"><![CDATA[<h2 id="Time"><a href="#Time" class="headerlink" title="Time"></a>Time</h2><p>现在是4:54AM，差不多该起床了。</p><span id="more"></span><p>##其实</p><p>其实我还没睡，差不多该猝死了，<a href="https://baike.baidu.com/item/%E7%8C%9D%E6%AD%BB/546442">啊啊啊啊啊</a>。不嘻哈了，洗洗睡了。</p><p>##end</p><p>希望明天能醒过来吃午饭。还得跑步呢。</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="Time"><a href="#Time" class="headerlink" title="Time"></a>Time</h2><p>现在是4:54AM，差不多该起床了。</p><span id="more"></span><h2 id="其实"><a href="#其实" class="headerlink" title="其实"></a>其实</h2><p>其实我还没睡，差不多该猝死了，<a href="https://baike.baidu.com/item/%E7%8C%9D%E6%AD%BB/546442">啊啊啊啊啊</a>。不嘻哈了，洗洗睡了。</p><h2 id="end"><a href="#end" class="headerlink" title="end"></a>end</h2><p>希望明天能醒过来吃午饭。还得跑步呢。</p><h2 id="Other"><a href="#Other" class="headerlink" title="Other"></a>Other</h2><p>舍友5点起床了，逆天。</p>]]></content>
       
       
       <categories>
@@ -30,8 +30,8 @@
     
     <entry>
       <title>好好好</title>
-      <link href="/2024/03/19/ao-ye/"/>
-      <url>/2024/03/19/ao-ye/</url>
+      <link href="/2024/03/19/hello-world/"/>
+      <url>/2024/03/19/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
